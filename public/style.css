@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&family=Oswald:wght@600&display=swap');
+
+body {
+  background: rgb(63,94,251);
+  background: linear-gradient(90deg, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+  font-family: 'Oswald', sans-serif;
+  
+  font-weight: bold;
+} 
+
+h1, .lead {
+  color: #fff;
+  -webkit-text-stroke: 1px #000;
+}
+
+
